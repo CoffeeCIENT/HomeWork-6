@@ -7,7 +7,7 @@ public class Main {
             System.out.println("Целое число " + i);
         }
 
-        System.out.println("Те же целые числа в обратном порядке: ");
+        System.out.println("Целые числа от 10 до 1: ");
         for (int i = 10; i >= 1; i--) {
             System.out.println("Целое число " + i);
         }
